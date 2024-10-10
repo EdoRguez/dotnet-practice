@@ -1,0 +1,12 @@
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/bin/Debug/net8.0/DotnetPractice.Contracts.deps.json
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/bin/Debug/net8.0/DotnetPractice.Contracts.dll
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/bin/Debug/net8.0/DotnetPractice.Contracts.pdb
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/obj/Debug/net8.0/DotnetPractice.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/obj/Debug/net8.0/DotnetPractice.Contracts.AssemblyInfoInputs.cache
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/obj/Debug/net8.0/DotnetPractice.Contracts.AssemblyInfo.cs
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/obj/Debug/net8.0/DotnetPractice.Contracts.csproj.CoreCompileInputs.cache
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/obj/Debug/net8.0/DotnetPractice.Contracts.sourcelink.json
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/obj/Debug/net8.0/DotnetPractice.Contracts.dll
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/obj/Debug/net8.0/refint/DotnetPractice.Contracts.dll
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/obj/Debug/net8.0/DotnetPractice.Contracts.pdb
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/obj/Debug/net8.0/ref/DotnetPractice.Contracts.dll

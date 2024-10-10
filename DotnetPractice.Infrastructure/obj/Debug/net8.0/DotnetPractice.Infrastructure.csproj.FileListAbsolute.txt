@@ -1,0 +1,12 @@
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/bin/Debug/net8.0/DotnetPractice.Infrastructure.deps.json
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/bin/Debug/net8.0/DotnetPractice.Infrastructure.dll
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/bin/Debug/net8.0/DotnetPractice.Infrastructure.pdb
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/obj/Debug/net8.0/DotnetPractice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/obj/Debug/net8.0/DotnetPractice.Infrastructure.AssemblyInfoInputs.cache
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/obj/Debug/net8.0/DotnetPractice.Infrastructure.AssemblyInfo.cs
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/obj/Debug/net8.0/DotnetPractice.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/obj/Debug/net8.0/DotnetPractice.Infrastructure.sourcelink.json
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/obj/Debug/net8.0/DotnetPractice.Infrastructure.dll
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/obj/Debug/net8.0/refint/DotnetPractice.Infrastructure.dll
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/obj/Debug/net8.0/DotnetPractice.Infrastructure.pdb
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/obj/Debug/net8.0/ref/DotnetPractice.Infrastructure.dll
