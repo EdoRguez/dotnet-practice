@@ -1,0 +1,12 @@
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Tests/bin/Debug/net8.0/DotnetPractice.Tests.deps.json
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Tests/bin/Debug/net8.0/DotnetPractice.Tests.dll
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Tests/bin/Debug/net8.0/DotnetPractice.Tests.pdb
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Tests/obj/Debug/net8.0/DotnetPractice.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Tests/obj/Debug/net8.0/DotnetPractice.Tests.AssemblyInfoInputs.cache
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Tests/obj/Debug/net8.0/DotnetPractice.Tests.AssemblyInfo.cs
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Tests/obj/Debug/net8.0/DotnetPractice.Tests.csproj.CoreCompileInputs.cache
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Tests/obj/Debug/net8.0/DotnetPractice.Tests.sourcelink.json
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Tests/obj/Debug/net8.0/DotnetPractice.Tests.dll
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Tests/obj/Debug/net8.0/refint/DotnetPractice.Tests.dll
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Tests/obj/Debug/net8.0/DotnetPractice.Tests.pdb
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Tests/obj/Debug/net8.0/ref/DotnetPractice.Tests.dll

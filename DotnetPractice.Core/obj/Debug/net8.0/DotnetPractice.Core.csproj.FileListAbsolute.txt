@@ -1,0 +1,12 @@
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/bin/Debug/net8.0/DotnetPractice.Core.deps.json
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/bin/Debug/net8.0/DotnetPractice.Core.dll
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/bin/Debug/net8.0/DotnetPractice.Core.pdb
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/DotnetPractice.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/DotnetPractice.Core.AssemblyInfoInputs.cache
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/DotnetPractice.Core.AssemblyInfo.cs
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/DotnetPractice.Core.csproj.CoreCompileInputs.cache
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/DotnetPractice.Core.sourcelink.json
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/DotnetPractice.Core.dll
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/refint/DotnetPractice.Core.dll
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/DotnetPractice.Core.pdb
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/ref/DotnetPractice.Core.dll
