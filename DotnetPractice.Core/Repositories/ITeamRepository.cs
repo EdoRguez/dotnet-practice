@@ -4,9 +4,8 @@ namespace DotnetPractice.Core.Repositories;
 
 public interface ITeamRepository
 {
-    Task<Team> Create(Team model);
-    Task<IEnumerable<Team>> GetAll();
-    Task<Team> Get(Guid id);
-    Task Update(Guid id, Team model);
-    Task Delete(Guid id);
+    Task Create(Team model);
+    Task<IEnumerable<Team>> GetAll(int limit, int offset, bool trackChanges = false);
+    Task<Team?> Get(Guid id, bool trackChanges = false);
+    Task Delete(Team model);
 }

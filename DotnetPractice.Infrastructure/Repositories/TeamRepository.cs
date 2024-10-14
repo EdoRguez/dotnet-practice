@@ -1,40 +1,43 @@
 using DotnetPractice.Core.Entities;
 using DotnetPractice.Core.Repositories;
+using Microsoft.EntityFrameworkCore;
 
 namespace DotnetPractice.Infrastructure.Repositories;
 
 public class TeamRepository : ITeamRepository
 {
-    private readonly AppDbcontext _context;
+    private readonly AppDbContext _context;
 
-    public TeamRepository(AppDbcontext context)
+    public TeamRepository(AppDbContext context)
     {
         _context = context;
     }
 
-    public async Task<Team> Create(Team model)
+    public async Task Create(Team model)
     {
-        await _context.Teams.Add(model);
+        _context.Teams.Add(model);
+        await Task.CompletedTask;
     }
 
-    public async Task Delete(Guid id)
+    public async Task Delete(Team model)
     {
-        var team = await _context.Teams.(x => x.Id == id);
-        await _context.Teams.Delete(team);
+       _context.Teams.Remove(model);
+       await Task.CompletedTask;
     }
 
-    public async Task<Team> Get(Guid id)
+    public async Task<Team?> Get(Guid id, bool trackChanges = false)
     {
-        throw new NotImplementedException();
+        if(trackChanges)
+            return await _context.Teams.SingleOrDefaultAsync(x => x.Id == id);
+
+        return await _context.Teams.AsNoTracking().SingleOrDefaultAsync(x => x.Id == id);
     }
 
-    public async Task<IEnumerable<Team>> GetAll()
+    public async Task<IEnumerable<Team>> GetAll(int limit, int offset, bool trackChanges = false)
     {
-        throw new NotImplementedException();
-    }
+        if(trackChanges)
+            return await _context.Teams.Take(limit).Skip(offset).ToListAsync();
 
-    public async Task Update(Guid id, Team model)
-    {
-        throw new NotImplementedException();
+        return await _context.Teams.AsNoTracking().Take(limit).Skip(offset).ToListAsync();
     }
 }

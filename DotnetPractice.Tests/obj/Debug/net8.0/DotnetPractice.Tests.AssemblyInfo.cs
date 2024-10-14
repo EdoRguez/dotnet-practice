@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotnetPractice.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e78d0cc04cb30d385c2df7a48faec55ac972c54c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b2619115bc506e18a767e5ab43b55bb023c2f09")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotnetPractice.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotnetPractice.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
