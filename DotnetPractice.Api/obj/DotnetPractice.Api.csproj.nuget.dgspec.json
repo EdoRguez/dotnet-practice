@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Api/DotnetPractice.Api.csproj": {}
+    "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.API/DotnetPractice.Api.csproj": {}
   },
   "projects": {
-    "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Api/DotnetPractice.Api.csproj": {
+    "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.API/DotnetPractice.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Api/DotnetPractice.Api.csproj",
+        "projectUniqueName": "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.API/DotnetPractice.Api.csproj",
         "projectName": "DotnetPractice.Api",
-        "projectPath": "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Api/DotnetPractice.Api.csproj",
+        "projectPath": "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.API/DotnetPractice.Api.csproj",
         "packagesPath": "/Users/pc/.nuget/packages/",
-        "outputPath": "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Api/obj/",
+        "outputPath": "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pc/.nuget/NuGet/NuGet.Config"
@@ -247,6 +247,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

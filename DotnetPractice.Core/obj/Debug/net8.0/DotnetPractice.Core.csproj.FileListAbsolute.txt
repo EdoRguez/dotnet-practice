@@ -10,3 +10,4 @@
 /Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/refint/DotnetPractice.Core.dll
 /Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/DotnetPractice.Core.pdb
 /Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/ref/DotnetPractice.Core.dll
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/DotnetPractice.Core.csproj.AssemblyReference.cache
