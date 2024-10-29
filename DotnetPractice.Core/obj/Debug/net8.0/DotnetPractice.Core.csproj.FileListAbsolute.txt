@@ -11,3 +11,6 @@
 /Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/DotnetPractice.Core.pdb
 /Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/ref/DotnetPractice.Core.dll
 /Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/DotnetPractice.Core.csproj.AssemblyReference.cache
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/bin/Debug/net8.0/DotnetPractice.Contracts.dll
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/bin/Debug/net8.0/DotnetPractice.Contracts.pdb
+/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/obj/Debug/net8.0/DotnetPr.A786E2CF.Up2Date

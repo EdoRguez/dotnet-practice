@@ -15,11 +15,11 @@ public class CreateTeamHandler
     public async Task<TeamResponse> Handle(CreateTeamRequest request)
     {
         var model = new Entities.Team(Guid.NewGuid(), request.Name);
-        var data = await _repo.Create(model);
+        await _repo.Create(model);
 
         return new TeamResponse(
-            data.Id,
-            data.Name,
+            model.Id,
+            model.Name,
             null
         );
     }

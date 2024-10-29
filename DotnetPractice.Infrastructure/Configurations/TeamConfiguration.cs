@@ -8,6 +8,21 @@ public class TeamConfiguration : IEntityTypeConfiguration<Team>
 {
     public void Configure(EntityTypeBuilder<Team> builder)
     {
-        throw new NotImplementedException();
+        ConfigureTeam(builder);
+    }
+
+    private void ConfigureTeam(EntityTypeBuilder<Team> builder)
+    {
+        builder.ToTable("Teams");
+
+        builder.HasKey(x => x.Id);
+
+        builder.Property(x => x.Id)
+               .ValueGeneratedNever()
+               .IsRequired();
+
+        builder.Property(x => x.Name)
+               .HasMaxLength(50)
+               .IsRequired();
     }
 }

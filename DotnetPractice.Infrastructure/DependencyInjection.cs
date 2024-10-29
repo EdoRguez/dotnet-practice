@@ -1,24 +1,25 @@
 using DotnetPractice.Core.Repositories;
 using DotnetPractice.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace DotnetPractice.Infrastructure;
 
 public static class DependencyInjection
 {
-    public static IServiceCollection AddInfrastructure(this IServiceCollection services)
+    public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration config)
     {
-        services.AddContext()
+        services.AddContext(config)
                 .AddPersistence();
 
         return services;
     }
 
-    public static IServiceCollection AddContext(this IServiceCollection services)
+    public static IServiceCollection AddContext(this IServiceCollection services, IConfiguration config)
     {
         services.AddDbContext<AppDbContext>(options => {
-            options.UseNpgsql("Server=127.0.0.1;Port=5488;Database=dotnet-practice-db;User Id=postgres;Password=postgres;");
+            options.UseNpgsql(config["DbConnectionString"]);
         });
 
         return services;
