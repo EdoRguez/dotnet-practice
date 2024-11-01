@@ -803,19 +803,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/pc/.nuget/packages/": {}
+    "/home/pc/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/DotnetPractice.Infrastructure.csproj",
+      "projectUniqueName": "/home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/DotnetPractice.Infrastructure.csproj",
       "projectName": "DotnetPractice.Infrastructure",
-      "projectPath": "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/DotnetPractice.Infrastructure.csproj",
-      "packagesPath": "/Users/pc/.nuget/packages/",
-      "outputPath": "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/obj/",
+      "projectPath": "/home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/DotnetPractice.Infrastructure.csproj",
+      "packagesPath": "/home/pc/.nuget/packages/",
+      "outputPath": "/home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/pc/.nuget/NuGet/NuGet.Config"
+        "/home/pc/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -827,8 +827,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/DotnetPractice.Core.csproj": {
-              "projectPath": "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/DotnetPractice.Core.csproj"
+            "/home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/DotnetPractice.Core.csproj": {
+              "projectPath": "/home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Core/DotnetPractice.Core.csproj"
             }
           }
         }
@@ -873,7 +873,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

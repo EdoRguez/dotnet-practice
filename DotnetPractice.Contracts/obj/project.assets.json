@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/pc/.nuget/packages/": {}
+    "/home/pc/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/DotnetPractice.Contracts.csproj",
+      "projectUniqueName": "/home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/DotnetPractice.Contracts.csproj",
       "projectName": "DotnetPractice.Contracts",
-      "projectPath": "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/DotnetPractice.Contracts.csproj",
-      "packagesPath": "/Users/pc/.nuget/packages/",
-      "outputPath": "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/obj/",
+      "projectPath": "/home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/DotnetPractice.Contracts.csproj",
+      "packagesPath": "/home/pc/.nuget/packages/",
+      "outputPath": "/home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/pc/.nuget/NuGet/NuGet.Config"
+        "/home/pc/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

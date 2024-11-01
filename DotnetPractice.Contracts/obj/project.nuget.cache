@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ifRnz6u81eg=",
+  "dgSpecHash": "KJ+hCs7XUsc=",
   "success": true,
-  "projectFilePath": "/Users/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/DotnetPractice.Contracts.csproj",
+  "projectFilePath": "/home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Contracts/DotnetPractice.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
