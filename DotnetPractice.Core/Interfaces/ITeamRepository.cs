@@ -1,6 +1,6 @@
 using DotnetPractice.Core.Entities;
 
-namespace DotnetPractice.Core.Repositories;
+namespace DotnetPractice.Core.Interfaces;
 
 public interface ITeamRepository
 {

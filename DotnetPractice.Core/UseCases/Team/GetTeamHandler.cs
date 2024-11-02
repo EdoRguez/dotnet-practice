@@ -1,5 +1,5 @@
 using DotnetPractice.Contracts.Team;
-using DotnetPractice.Core.Repositories;
+using DotnetPractice.Core.Interfaces;
 
 namespace DotnetPractice.Core.UseCases.Team;
 

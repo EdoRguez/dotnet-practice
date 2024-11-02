@@ -1,3 +1,4 @@
+using DotnetPractice.Api.Endpoints;
 using DotnetPractice.Core;
 using DotnetPractice.Infrastructure;
 
@@ -11,6 +12,8 @@ builder.Services.AddInfrastructure(builder.Configuration)
                 .AddCore();
 
 var app = builder.Build();
+
+app.MapTeamEndpoints();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

@@ -13,7 +13,7 @@ public static class TeamEndpoints
             return await handler.Handle(request);
         });
 
-        group.MapGet("/{id}", async (Guid id, GetTeamHandler handler) => {
+        group.MapGet("/{id:guid}", async (Guid id, GetTeamHandler handler) => {
             var result = await handler.Handle(id);
             return result is null ? Results.NotFound() : Results.Ok(result);
         });

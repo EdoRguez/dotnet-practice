@@ -1,4 +1,4 @@
-using DotnetPractice.Core.Repositories;
+using DotnetPractice.Core.Interfaces;
 using DotnetPractice.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -27,6 +27,7 @@ public static class DependencyInjection
 
     public static IServiceCollection AddPersistence(this IServiceCollection services)
     {
+        services.AddScoped<IUnitOfWork, UnitOfWork>();
         services.AddScoped<ITeamRepository, TeamRepository>();
 
         return services;

@@ -1,5 +1,5 @@
 using DotnetPractice.Core.Entities;
-using DotnetPractice.Core.Repositories;
+using DotnetPractice.Core.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace DotnetPractice.Infrastructure.Repositories;
