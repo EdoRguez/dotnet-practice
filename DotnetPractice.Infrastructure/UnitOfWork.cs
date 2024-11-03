@@ -1,4 +1,4 @@
-using DotnetPractice.Core.Interfaces;
+using DotnetPractice.Core.Common.Interfaces;
 
 namespace DotnetPractice.Infrastructure;
 

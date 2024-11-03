@@ -1,4 +1,4 @@
-using DotnetPractice.Core.Interfaces;
+using DotnetPractice.Core.Common.Interfaces;
 using DotnetPractice.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;

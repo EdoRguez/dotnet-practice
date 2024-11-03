@@ -1,3 +1,4 @@
+using DotnetPractice.Api.Common.Mapping;
 using DotnetPractice.Api.Endpoints;
 using DotnetPractice.Core;
 using DotnetPractice.Infrastructure;
@@ -8,6 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddMappings();
 builder.Services.AddInfrastructure(builder.Configuration)
                 .AddCore();
 

@@ -1,4 +1,5 @@
 using DotnetPractice.Core.UseCases.Team;
+using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace DotnetPractice.Core;

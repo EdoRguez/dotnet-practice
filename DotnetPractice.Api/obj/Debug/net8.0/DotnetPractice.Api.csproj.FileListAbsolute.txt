@@ -240,3 +240,6 @@
 /home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Api/obj/Debug/net8.0/DotnetPractice.Api.genruntimeconfig.cache
 /home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Api/obj/Debug/net8.0/ref/DotnetPractice.Api.dll
 /home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Api/obj/Debug/net8.0/DotnetPr.780707CC.Up2Date
+/home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Api/bin/Debug/net8.0/FluentResults.dll
+/home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Api/bin/Debug/net8.0/FluentValidation.dll
+/home/pc/Documents/Projects/dotnet-practice/DotnetPractice.Api/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll

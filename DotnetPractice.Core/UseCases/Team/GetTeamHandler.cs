@@ -1,5 +1,4 @@
-using DotnetPractice.Contracts.Team;
-using DotnetPractice.Core.Interfaces;
+using DotnetPractice.Core.Common.Interfaces;
 
 namespace DotnetPractice.Core.UseCases.Team;
 
@@ -12,17 +11,13 @@ public class GetTeamHandler
         _repo = repo;
     }
 
-    public async Task<TeamResponse> Handle(Guid id)
+    public async Task<Entities.Team> Handle(Guid id)
     {
         var model = await _repo.Get(id);
 
         if(model is null)
             return null;
 
-        return new TeamResponse(
-            model.Id,
-            model.Name,
-            null
-        );
+        return model;
     }
 }
